@@ -1,53 +1,26 @@
-# GoLang
-# About Page for Your Go Web Application
+# Personal Website - GoLang
 
-Provide a detailed explanation of the "About" page for your Go web application. This section is meant to give users an understanding of the purpose and content of the "About" page.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Folder Structure](#folder-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Introduction
 
-Explain the purpose of the "About" page. What information does it contain? How does it contribute to the overall user experience?
+This is the repository for my personal website built with Go. It serves as a platform to showcase my portfolio, blog posts, and other information about me.
 
 ## Features
 
-List the key features and functionalities of the "About" page.
-
-## Usage
-
-Provide instructions on how users can navigate to and use the "About" page. If there are any interactive elements or special functionalities, highlight them here.
-
-## Screenshots
-![all text](https://github.com/sobuz80/GoLang/blob/main/Screenshot.png)
-Include screenshots or images that showcase the visual aspects of the "About" page. This helps users get a visual preview of what to expect.
-
-## Folder Structure
-
-If your project has a specific folder structure for organizing files related to the "About" page, outline it here.
+- **Portfolio:** Highlighting my projects and achievements.
+- **Blog:** Sharing my thoughts and experiences through blog posts.
+- **Contact:** A way for visitors to reach out to me.
 
 ## Technologies Used
 
-List the technologies, frameworks, and libraries used specifically for implementing the "About" page. Mention Bootstrap and any other relevant tools.
+- **Go (Golang):** The main programming language used for the backend.
+- **Gin:** A web framework written in Go for routing and handling HTTP requests.
+- **HTML/CSS:** Used for building the frontend layout and styling.
+- **Bootstrap:** Utilized for responsive and visually appealing design.
+- **SQLite:** The database for storing blog posts and other dynamic content.
+- **Markdown:** Used for writing blog posts in a simple and easy-to-read format.
 
-## Contributing
+## Folder Structure
 
-Explain how others can contribute to the "About" page or the overall project. Include guidelines for submitting improvements or reporting issues related to this page.
-
-## License
-
-Specify the license under which the "About" page and the entire project are distributed.
-
-## Acknowledgements
-
-If you've used third-party resources, libraries, or services for the "About" page, give proper credit and acknowledgment.
-
+![all text](https://github.com/sobuz80/GoLang/blob/main/Screenshot.png)
