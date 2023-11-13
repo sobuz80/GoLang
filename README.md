@@ -28,7 +28,7 @@ List the key features and functionalities of the "About" page.
 Provide instructions on how users can navigate to and use the "About" page. If there are any interactive elements or special functionalities, highlight them here.
 
 ## Screenshots
-
+![all text](https://github.com/sobuz80/GoLang/blob/main/Screenshot.png)
 Include screenshots or images that showcase the visual aspects of the "About" page. This helps users get a visual preview of what to expect.
 
 ## Folder Structure
