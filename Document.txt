@@ -1,0 +1,6 @@
+Download :go1.21.4.windows-amd64.msi 
+https://go.dev/dl/
+ 
+go mod init example.com/mod
+go get github.com/gin-gonic/gin
+go run main.go
