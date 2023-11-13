@@ -24,3 +24,21 @@ This is the repository for my personal website built with Go. It serves as a pla
 ## Folder Structure
 
 ![all text](https://github.com/sobuz80/GoLang/blob/main/Screenshot.png)
+
+├── main.go
+├── controllers
+│ ├── blog_controller.go
+│ ├── contact_controller.go
+│ ├── portfolio_controller.go
+│ └── ...
+├── templates
+│ ├── layout.tmpl
+│ ├── home.tmpl
+│ ├── blog.tmpl
+│ └── ...
+├── static
+│ ├── css
+│ └── ...
+├── data
+│ └── blog.db
+└── ...
